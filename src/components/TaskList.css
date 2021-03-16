@@ -1,0 +1,21 @@
+.activeTask {
+  border-bottom: 2px solid yellow;
+  padding: 10px;
+}
+
+.activeTask h1 {
+  padding: 10px;
+}
+
+.completedTasks {
+  margin-top: 10px;
+}
+.completedTasks h1 {
+  padding: 10px;
+}
+
+.five {
+  padding-bottom: 15px;
+  color: red;
+  font-size: 20px;
+}
